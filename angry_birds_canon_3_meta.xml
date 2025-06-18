@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>angry_birds_canon_3</identifier>
+  <mediatype>software</mediatype>
+  <collection>softwarelibrary_contribs_notworking</collection>
+  <creator>Rovio</creator>
+  <date>2012-01-12</date>
+  <description>Drag To slingshot</description>
+  <scanner>Internet Archive HTML5 Uploader 1.7.0</scanner>
+  <subject>Rovio</subject>
+  <title>Angry Birds Cannon 3 FVD</title>
+  <uploader>maxi.tomi.bros@gmail.com</uploader>
+  <publicdate>2024-02-21 22:56:32</publicdate>
+  <addeddate>2024-02-21 22:56:32</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20240221230152[/date][comment]checked for malware[/comment]</curation>
+  <year>2012</year>
+  <publisher>Rovio</publisher>
+  <language>English</language>
+  <emulator_ext>swf</emulator_ext>
+  <autoemulator>true</autoemulator>
+  <emulator>ruffle-swf</emulator>
+  <collection_added>softwarelibrary</collection_added>
+  <collection_added>emulation</collection_added>
+  <collection>softwarelibrary_contribs</collection>
+  <collection>softwarelibrary</collection>
+  <collection>emulation</collection>
+  <collection_added>softwarelibrary_contribs</collection_added>
+</metadata>

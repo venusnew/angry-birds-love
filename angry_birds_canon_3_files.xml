@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="00_coverscreenshot.png" source="original">
+    <mtime>1713835375</mtime>
+    <size>2319</size>
+    <md5>0213d3b89b40042118128b5a2b4d16d3</md5>
+    <crc32>41baf7df</crc32>
+    <sha1>29c0af827ca01a08b5f4479a29fda60464e9a365</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="00_coverscreenshot_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>00_coverscreenshot.png</original>
+    <mtime>1713835427</mtime>
+    <size>3930</size>
+    <md5>ba330c73a0a455f9e173f7b4a8d6b79b</md5>
+    <crc32>eb22dabe</crc32>
+    <sha1>295c0fce142026e4f58135d635bb2f20185218ff</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1713835416</mtime>
+    <size>258</size>
+    <md5>9c26ca96e98591d14dc43d5c15332eb4</md5>
+    <crc32>ffab3e60</crc32>
+    <sha1>dbe3182b62278f8185d22e7c32fa092351a73fe9</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="angry_birds_canon_3.swf" source="original">
+    <mtime>1708556163</mtime>
+    <size>4935892</size>
+    <md5>e27e7e8d9c4fdd121588a315e4c7e0f5</md5>
+    <crc32>76e304e7</crc32>
+    <sha1>35c4db14745d3ee597d6966e77a5ffdea21982a6</sha1>
+    <format>Shockwave Flash</format>
+    <length>0.07</length>
+    <width>640</width>
+    <height>480</height>
+    <viruscheck>1708556512</viruscheck>
+  </file>
+  <file name="angry_birds_canon_3_archive.torrent" source="metadata">
+    <btih>2b857dcea18dc2afcb82a6cd8cab174bccfc2cf9</btih>
+    <mtime>1740014638</mtime>
+    <size>2958</size>
+    <md5>df1031439686109bb73318335f3f0691</md5>
+    <crc32>24fa0b1e</crc32>
+    <sha1>9542ed9f827bf075960d052d3b15c333e53b1634</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="angry_birds_canon_3_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>b84758ace804c27913723b149520c7af</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="angry_birds_canon_3_meta.sqlite" source="original">
+    <mtime>1713835383</mtime>
+    <size>20480</size>
+    <md5>cd6e5d5c47e3a34c09e2599090209ddb</md5>
+    <crc32>ce870462</crc32>
+    <sha1>b302b84724b66e8e86ef81509a2f6cd7519e5219</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="angry_birds_canon_3_meta.xml" source="original">
+    <mtime>1740014636</mtime>
+    <size>1190</size>
+    <md5>4d917f402ec4894c37c0436a7c462e85</md5>
+    <crc32>2bc1475f</crc32>
+    <sha1>35290b99568fe6b92d9cd49a979e705afe575445</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="angry_birds_canon_3_screenshot.gif" source="original">
+    <mtime>1713835380</mtime>
+    <size>1469</size>
+    <md5>6f222e33070cc11fb1c8b3739cf58a4c</md5>
+    <crc32>3256e45e</crc32>
+    <sha1>293527c814be7ef8479703eb644767540cb25f43</sha1>
+    <format>Emulator Screenshot</format>
+  </file>
+  <file name="screenshot_00.png" source="original">
+    <mtime>1713835377</mtime>
+    <size>2319</size>
+    <md5>0213d3b89b40042118128b5a2b4d16d3</md5>
+    <crc32>41baf7df</crc32>
+    <sha1>29c0af827ca01a08b5f4479a29fda60464e9a365</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_00_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_00.png</original>
+    <mtime>1713835429</mtime>
+    <size>3930</size>
+    <md5>ba330c73a0a455f9e173f7b4a8d6b79b</md5>
+    <crc32>eb22dabe</crc32>
+    <sha1>295c0fce142026e4f58135d635bb2f20185218ff</sha1>
+  </file>
+</files>
